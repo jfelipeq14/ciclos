@@ -1,0 +1,25 @@
+1. Se tiene una cantidad conocida de registros, cada registro contiene el número del vuelo en una aerolínea, la fecha, el destino (suponga que solo puede ser Bogotá, Cali o Barranquilla) y el número de pasajeros transportados. Se debe crear un algoritmo que muestre por cada vuelo el número y el valor total de los pasajes sabiendo que el valor de cada pasajes es: a Bogotá $600.000, a Cali $750.000 y a Barranquilla $ 980.000.
+
+2. Se tienen 10 registros, cada registro contiene el nombre, salario básico hora, el número de horas trabajadas, el total de deducciones y el total de bonificaciones. Elabore un algoritmo que imprima por cada trabajador el nombre, el salario bruto y el salario neto.
+
+3. Elabore un algoritmo que lea para un grupo de 15 personas elnombre y la edad, e imprima por cada una el nombre y un mensaje que diga si es mayor o menor de edad.
+
+4. En un almacén, cada que se realiza una venta se elabora un registro con el nombre del articulo, el precio por unidad y la cantidad deartículos vendidos. Suponiendo que se hicieron 20 ventas, elabore un algoritmo que imprima por cada venta el nombre del articulo y el valor total de la venta.
+
+5. Elabore un algoritmo que lea el nombre, la edad y la estatura de un grupo de 20 personas, e imprima el nombre solo de las personas que sean mayores de edad y que su estatura sea mayor de 1.80 mts.
+
+6. En una universidad, cada que se matricula un estudiante se elabora un registro con el número del carnet, la cantidad de materias matriculadas y el estrato social al que pertenece, Elabore un algoritmo que imprima por cada estudiante el carnet y el valor de la matricula, teniendo en cuenta que si el número de materias es superior a 5 y el estrato social es igual a 1 se le hace un descuento del 20%. Cada materia tiene un valor de $100.000.00
+
+7. Un empresario del transporte cuenta con 30 vehículos entre buses, busetas y colectivos. Al final del día se elabora por cada vehículo un registro con la placa, el tipo (1= bus, 2= buseta, 3= colectivo) y el número de pasajeros transportados. Elabore un algoritmo que imprima por cada vehículo la placa, el dinero recolectado y el pago para el conductor que es el 20% del total recolectado. También tenga en cuenta que el precio del pasaje en Bus es de $2200.00, en Buseta es de $ 2500.00 y en Colectivos es de $3500.00.
+
+8. La Realizar un algoritmo para sumar consecutivamente y cuando la suma sea superior a 100 deje de pedir números y muestre el total.
+
+9. Realizar un algoritmo que permita obtener el promedio de la cantidad de números que el usuario desee digitar.
+
+10. Un profesor desea registrar las notas obtenidas por 20 de sus estudiantes, discriminando si son hombres o mujeres. Se requiere un programa que capture la nota y el sexo y realice un promedio para cada uno de los tipos. Al final debe indicar cuál de los dos (hombres o mujeres) tuvo un mejor desempeño.
+
+11. Un ama de casa requiere comprar 15 productos. Realizar un algoritmo que capture la informacion de cada producto y al final indique cuantos productos costaron menos de 10000 y 10000 o más. Además debe indicar el total de la compra.
+
+12. Elabore un programa que imprima la tabla de multiplicar de un numero que se pida y vaya desde el 1 hasta el 10.
+
+13. Una empresa tiene 3 facturas en un día. La primera factura tiene 4 artículos, la segunda factura tiene 5 artículos, la tercer factura tiene 3 artículos. Mostrar el valor de cada factura (cantidad * precio unitario), y valor facturado del día y el valor del descuento sabiendo que si la venta del día es menos a 2 millones tiene un descuento del 10%, si esta entre 2 millones y menor o igual a 5 millones será del 12% y mayores del 15%.
